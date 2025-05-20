@@ -11,10 +11,10 @@ Baixe a versão do Ollama correspondente ao seu sistema: https://ollama.com/down
 
 ### 2. Instale o Ollama
 ``` 
-     pip install ollama
+    pip install ollama
 ```
 
 ### 3. Envie o seu prompt
 ```
-python llm_cli.py --prompt "Sua mensagem aqui"
+    python llm_cli.py --prompt "Sua mensagem aqui"
 ```
